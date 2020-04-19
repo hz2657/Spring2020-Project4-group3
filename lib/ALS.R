@@ -47,7 +47,7 @@ ALS <- function(f = 10, lambda = 0.3, max.iter=20, data, train=data_train, test=
     
     # Summerize
     cat("iter:", l, "\t")
-    est_rating <- t(User) %*% Movie 
+    est_rating <- t(Movie) %*% User 
     colnames(est_rating) <- levels(as.factor(data$movieId))
     
     train_RMSE_cur <- RMSE(train, est_rating)
