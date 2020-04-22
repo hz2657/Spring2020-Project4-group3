@@ -1,4 +1,5 @@
 # Project 4: Algorithm implementation and evaluation: Collaborative Filtering
+![screenshot](doc/figs/image_readme.jpg)
 
 ### [Project Description](doc/project4_desc.md)
 
