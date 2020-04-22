@@ -13,10 +13,8 @@ Term: Spring 2020
 	+ Shi, Mengying ms5922@columbia.edu
 	+ Zhang, Ziyang zz2683@columbia.edu
 	+ Zhu, Huizhe hz2657@columbia.edu
-+ Project summary: In this project, we explored matrix factorization methods for recommender system. The goal is to match consumers with most appropriate products. Matrix factorization methods characterize both items and users by vectors of factors inferred from item rating patterns. High correspondence between item and user factors leads to a recommendation. Matrix factorization generally has 3 parts:
-- factorization algorithm
-- regularization
-- postpocessing
+	
++ Project summary: In this project, we explored matrix factorization methods for recommender system. The goal is to match consumers with most appropriate products. Matrix factorization methods characterize both items and users by vectors of factors inferred from item rating patterns. High correspondence between item and user factors leads to a recommendation. Matrix factorization generally has 3 parts: 1. factorization algorithm  2. regularization  3. postpocessing
 	
 **Contribution statement**: [default] All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
 
