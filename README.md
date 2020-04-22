@@ -4,15 +4,18 @@
 
 Term: Spring 2020
 
-+ Team #
-+ Projec title: Lorem ipsum dolor sit amet
++ Team 3
++ Projec title: Algorithm implementation and evaluation: Collaborative Filtering
 + Team members
-	+ team member 1
-	+ team member 2
-	+ team member 3
-	+ team member 4
-	+ team member 5
-+ Project summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+	+ Bian, Xinyi xb2154@columbia.edu
+	+ Feng, Kangli kf2616@columbia.edu
+	+ Shi, Mengying ms5922@columbia.edu
+	+ Zhang, Ziyang zz2683@columbia.edu
+	+ Zhu, Huizhe hz2657@columbia.edu
++ Project summary: In this project, we explored matrix factorization methods for recommender system. The goal is to match consumers with most appropriate products. Matrix factorization methods characterize both items and users by vectors of factors inferred from item rating patterns. High correspondence between item and user factors leads to a recommendation. Matrix factorization generally has 3 parts:
+- factorization algorithm
+- regularization
+- postpocessing
 	
 **Contribution statement**: [default] All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
 
