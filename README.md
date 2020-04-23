@@ -20,6 +20,8 @@ In this project, we explored matrix factorization methods for recommender system
 
 Given data sets including 610 users and 9724 movies, we implemented ALS withour regularizations and ALS with regularizations(R1 and R2).After fitting the model, we used Kernel Ridge Regreesion for postprocessing. Our result shows that the more latent factors we use, the lower the final RMSE is. 
 ![evaluationvisualization](figs/eval1.jpg)
+![evaluationvisualization](figs/eval2.jpg)
+
 
 	
 **Contribution statement**: [default] All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
