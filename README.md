@@ -24,7 +24,7 @@ Given data sets including 610 users and 9724 movies, we implemented ALS withour 
 **Contribution statement**: [default] All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
 
 * Ziyang Zhang and Huizhe Zhu: implemented Altering Least Squares and postprocessing with Kernal Ridge Regression. 
-* Mengying Shi and Xinyi Bian: implemented ALS with regularizations(R1 and R2).
+* Mengying Shi and Xinyi Bian: implemented ALS with regularizations(R1 and R2)and postprocessing with Kernal Ridge Regression.
 * Kangli Feng: Debug the code for RMSE and Presentations 
 
 
